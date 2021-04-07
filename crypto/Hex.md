@@ -1,3 +1,4 @@
+![Hex](https://user-images.githubusercontent.com/33517160/113944955-14270e00-980e-11eb-8ef8-d34a37e56f6d.png)
 
 - Challenge Name: **`Primer - Hex`**
 - Points: **`50pts`**
