@@ -6,7 +6,9 @@
 
 ### I went solo, team link: https://ciphercode.dev/teams/207
 
-
+>> ________________
+>> ________________
+>> ________________
 
 ## Aspire CTF RULES
 ### To ensure a fair competitive environment, please adhere to the following rules.
