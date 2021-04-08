@@ -13,8 +13,8 @@
 This one is really clear just decode the binary from any binary to text website and get the flag
 
 i did it with **cyberchef**
-```
+
 https://gchq.github.io/CyberChef/#recipe=From_Binary('Space',8)&input=MDEwMDAwMDEgMDExMTAwMTEgMDExMTAwMDAgMDExMDEwMDEgMDExMTAwMTAgMDExMDAxMDEgMDExMTEwMTEgMDEwMTAxMDAgMDExMDEwMDAgMDExMDAxMDEgMDExMTAwMTAgMDExMDAxMDEgMDAxMDAwMDAgMDExMDAwMDEgMDExMTAwMTAgMDExMDAxMDEgMDAxMDAwMDAgMDAxMTAwMDEgMDAxMTAwMDAgMDAxMDAwMDAgMDExMTAxMDAgMDExMTEwMDEgMDExMTAwMDAgMDExMDAxMDEgMDExMTAwMTEgMDAxMDAwMDAgMDExMDExMTEgMDExMDAxMTAgMDAxMDAwMDAgMDExMTAwMDAgMDExMDAxMDEgMDExMDExMTEgMDExMTAwMDAgMDExMDExMDAgMDExMDAxMDEgMDAxMDExMTAgMDAxMDExMTAgMDAxMDExMTAgMDExMTExMDEKCg
-```
+
 
 Flag: `Aspire{There are 10 types of people...}`
