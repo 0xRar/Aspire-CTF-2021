@@ -12,7 +12,7 @@
 
 
 ## Solution:
-Same as every other XOR challenge :
+Same as every other XOR challenge https://www.dcode.fr/xor-cipher :
 
 ![image](https://user-images.githubusercontent.com/33517160/114111605-22932980-98e3-11eb-8392-05ab83d9fb70.png)
 
