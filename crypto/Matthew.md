@@ -6,7 +6,15 @@
 >> vasbezngvba vf gur erfbyhgvba bs hapregnvagl - Nfcver{Pynhqr Funaaba}
 
 ## Solution:
-I Knew it was a `rot` but i had to test it, and yes its `rot13`
+Usually  when you see messy letters its a rot but there is kinds of rots like:
+
+```
+rot5 only for numbers,
+rot13 for letters,
+rot18 for numbers
+and letters, rot47 all printable ascii characters except whitespaces`
+```
+so this one is `rot13` because its only letters
 https://gchq.github.io/CyberChef/#recipe=ROT13(true,true,false,13)&input=TmZjdmVye1B5bmhxciBGdW5hYWJhfQ
 
 Flag: `Aspire{Claude Shannon}`
