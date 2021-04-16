@@ -9,7 +9,7 @@
 >> https://ciphercode.dev/files/23e48b8b3bee2aadc707292b52cfa33f/scorpion.jpg?token=eyJ1c2VyX2lkIjozMDYsInRlYW1faWQiOjIwNywiZmlsZV9pZCI6Mjh9.YHh9BA.IspPv3Ca6MwkSEJjJOODmIDL1lc
 
 ## Solution:
-The image size seems to be a little bit hight for a `jpg` image,
+The image size seems to be a little bit high for a `jpg` image,
 this challenge solved with the tool [Stegseek](https://github.com/RickdeJager/stegseek/releases/tag/v0.5)
 
 `stegseek scorpion.jpg`
