@@ -16,7 +16,7 @@ this is what we get when we decode the hex
 
 you can decode them using **cyberchef**
 
-`https://gchq.github.io/CyberChef/#recipe=From_Hex('Auto')From_Base64('A-Za-z0-9%2B/%3D',true)&input=NTE1ODRlNzc2MTU4NGE2YzY1MzA0Njc5NWE1MzQyMzU2MjMzNTU2NzU5NTM0MjZiNWE1ODVhNzY2NDQ3NTY2YzQ5NDczOTZkNDk0ODUyNmY1YTUzNDI2ZDYxNTczNTZjNDk0NzQ2Nzk2NDQzNDI3NjVhNjk0MjY5NjE1ODUyN2E0OTQ3NDY3NTVhNDM0MjY5NjU1ODUyNmM2MzdhMzkzOQ`
+https://gchq.github.io/CyberChef/#recipe=From_Hex('Auto')From_Base64('A-Za-z0-9%2B/%3D',true)&input=NTE1ODRlNzc2MTU4NGE2YzY1MzA0Njc5NWE1MzQyMzU2MjMzNTU2NzU5NTM0MjZiNWE1ODVhNzY2NDQ3NTY2YzQ5NDczOTZkNDk0ODUyNmY1YTUzNDI2ZDYxNTczNTZjNDk0NzQ2Nzk2NDQzNDI3NjVhNjk0MjY5NjE1ODUyN2E0OTQ3NDY3NTVhNDM0MjY5NjU1ODUyNmM2MzdhMzkzOQ
 
 after decoding the base64 we get our flag
 
